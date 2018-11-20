@@ -4,3 +4,4 @@ asdfdasf
 version 4
 branch 2
 branch
+conflict1
