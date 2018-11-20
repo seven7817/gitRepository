@@ -4,4 +4,4 @@ asdfdasf
 version 4
 branch 2
 branch
-conflict2
+conflict1and2
